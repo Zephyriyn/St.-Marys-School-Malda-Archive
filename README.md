@@ -8,6 +8,9 @@ This project aims to provide access to a replica of the St. Mary's School, Malda
 
 **Number of students archived (details extracted):** 1487/?
 
+#### You can use the site [here](https://st-marys-school-malda-archive.streamlit.app/).
+
+
 * Total number of students to have ever studied in the school = ~ 3600. *
 <details>
   <summary> <h3> The following details have been saved for the students (Click the triangle) <h3> </summary>
@@ -79,11 +82,17 @@ This project aims to provide access to a replica of the St. Mary's School, Malda
 - [x] Add personal information, numbers, addresses, etc.
 
 ### GUI
-![GUI Image 1](https://github.com/Zephyriyn/St.-Marys-School-Malda-Database/assets/147987822/cc17336d-a933-4b7d-8191-efa2492f006a)
 
-![GUI Image 2](https://github.com/Zephyriyn/St.-Marys-School-Malda-Database/assets/147987822/69178a2b-fd8c-4589-9608-7a5725ec0528)
+# You can use the site [here](https://st-marys-school-malda-archive.streamlit.app/).
 
-#### Installation
+![GUI Image](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/f0b0c656-a73e-4a48-b3b6-1ceb972442c8)
+
+![GUI Image](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/9d675008-33bb-46b6-a116-6e66767cb0e5)
+
+![image](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/9beba318-6814-40db-a6f8-2c06dc871a88)
+
+
+##### Install and use offline.
 The whole database, including the images of the students (~1400), is about 300 MB.
 
 You need to have python installed for this, with pip.

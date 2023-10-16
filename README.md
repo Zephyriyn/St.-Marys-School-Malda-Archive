@@ -85,11 +85,11 @@ This project aims to provide access to a replica of the St. Mary's School, Malda
 
 # You can use the site [here](https://st-marys-school-malda-archive.streamlit.app/).
 
-![GUI Image](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/f0b0c656-a73e-4a48-b3b6-1ceb972442c8)
+![GUI IMG](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/022672e3-7c61-4ae6-bbe3-14aa6438014c)
 
-![GUI Image](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/9d675008-33bb-46b6-a116-6e66767cb0e5)
+![GUI IMG](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/bbe257cb-5e81-4785-89ad-d749280b1dce)
 
-![image](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/9beba318-6814-40db-a6f8-2c06dc871a88)
+![GUI IMG](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/c8d96461-b185-4850-bb6c-23061724fc0b)
 
 
 ##### Install and use offline.

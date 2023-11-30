@@ -6,7 +6,7 @@
 
 This project aims to provide access to a replica of the St. Mary's School, Malda database. It is created with the intention of fostering transparency and accessibility. As the teachers from our school have access to all our data, being 'admins'.
 
-**Number of students archived (details extracted):** 1487/?
+**Number of students archived (details extracted):** 1907/1907
 
 #### You can use the site [here](https://st-marys-school-malda-archive.streamlit.app/).
 

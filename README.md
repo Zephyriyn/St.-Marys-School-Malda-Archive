@@ -71,7 +71,7 @@ This project aims to provide access to a replica of the St. Mary's School, Malda
 
 ### TODO:
 - [x] Make a GUI.
-- [x] Complete adding search by name and crude search by ID.
+- [x] Complete adding search and search by.
 - [ ] Add attendance details.
 - [ ] Add marks details.
 - [x] Add pictures.

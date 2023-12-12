@@ -8,10 +8,6 @@ This project aims to provide access to a replica of the St. Mary's School, Malda
 
 **Number of students archived (details extracted):** 1907/1907
 
-#### You can use the site [here](https://st-marys-school-malda-archive.streamlit.app/).
-
-
-* Total number of students to have ever studied in the school = ~ 3600. *
 <details>
   <summary> <h3> The following details have been saved for the students (Click the triangle) <h3> </summary>
   
@@ -80,23 +76,3 @@ This project aims to provide access to a replica of the St. Mary's School, Malda
 - [ ] Add marks details.
 - [x] Add pictures.
 - [x] Add personal information, numbers, addresses, etc.
-
-### GUI
-
-# You can use the site [here](https://st-marys-school-malda-archive.streamlit.app/).
-
-![GUI IMG](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/022672e3-7c61-4ae6-bbe3-14aa6438014c)
-
-![GUI IMG](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/bbe257cb-5e81-4785-89ad-d749280b1dce)
-
-![GUI IMG](https://github.com/Zephyriyn/St.-Marys-School-Malda-Archive/assets/147987822/c8d96461-b185-4850-bb6c-23061724fc0b)
-
-
-##### Install and use offline.
-The whole database, including the images of the students (~1400), is about 300 MB.
-
-You need to have python installed for this, with pip.
-
-1. Download this [file](https://www.mediafire.com/file/nijrm2wmv6e1qe8/School+Records+V_0.1.zip/file) and unzip it.
-2. Open `run.bat` and wait for it to finish.
-3. Wait for the script to redirect you to [http://localhost:8501/](http://localhost:8501/)

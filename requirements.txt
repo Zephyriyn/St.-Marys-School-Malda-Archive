@@ -1,6 +1,0 @@
-streamlit
-folium
-Pillow
-streamlit_folium
-geopy
-requests
